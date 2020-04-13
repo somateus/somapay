@@ -27,12 +27,12 @@
   },
   "footer": {
     "logo_img": "/images/logo.svg",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "Time de Design",
     "has_nav": true,
     "nav_title": "Company",
     "nav_links": [
       {
-        "label": "About Us",
+        "label": "Sobre",
         "url": "/about"
       },
       {
@@ -40,8 +40,8 @@
         "url": "/blog"
       },
       {
-        "label": "Sign Up",
-        "url": "signup"
+        "label": "Newsletter",
+        "url": "subscribe"
       },
       {
         "label": "Contact",
@@ -52,19 +52,12 @@
     "social_title": "Community",
     "social_links": [
       {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": true
+        "label": "Dribbble",
+        "url": "dribbble.com"
       },
       {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "new_window": true
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "new_window": true
+        "label": "Medium",
+        "url": "medium.com"
       }
     ],
     "has_subscribe": true,
