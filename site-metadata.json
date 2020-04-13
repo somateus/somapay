@@ -3,24 +3,24 @@
   "palette": "purple",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/logo.svg",
     "has_nav": true,
     "nav_links": [
+      {
+        "label": "Início",
+        "url": "/"
+      },
       {
         "label": "Blog",
         "url": "https://somapay-48e64.netlify.com/blog"
       },
       {
-        "label": "Home",
-        "url": "/"
+        "label": "Design System",
+        "url": "/design-system"
       },
       {
-        "label": "Style Guide",
-        "url": "/style-guide"
-      },
-      {
-        "label": "Sign Up",
-        "url": "/signup",
+        "label": "Newsletter",
+        "url": "/subscribe",
         "primary": true
       }
     ]
